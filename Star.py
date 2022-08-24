@@ -3,7 +3,7 @@ from turtle import *
 t = [Turtle(), Turtle()]
 c = [1, 3]
 
-colors = ["yellow", "blue", "white", "purple"]
+colors = ["yellow", "blue", "purple"]
 bgcolor("black")
 tracer(10)
 ht()
